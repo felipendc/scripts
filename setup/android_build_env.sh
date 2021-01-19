@@ -29,7 +29,7 @@ fi
 
 sudo DEBIAN_FRONTEND=noninteractive \
     apt install \
-    adb autoconf automake axel bc bison build-essential \
+    openjdk-8-jdk adb autoconf automake axel bc bison build-essential \
     ccache clang cmake expat fastboot flex g++ \
     g++-multilib gawk gcc gcc-multilib git gnupg gperf \
     htop imagemagick lib32ncurses5-dev lib32z1-dev libtinfo5 libc6-dev libcap-dev \
